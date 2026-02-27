@@ -32,7 +32,7 @@ body {
 
 .fetch_result 
 {
-    background-color: #6366f1;
+    background-color: #ff0000;
     color: white;
     margin-top: 15px;
     padding: 10px;
@@ -51,4 +51,5 @@ button {
     background-color: #4f46e5;
     transform: scale(1.05);
     cursor: pointer;
+
 }
